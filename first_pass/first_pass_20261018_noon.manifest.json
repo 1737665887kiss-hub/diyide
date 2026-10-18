@@ -1,10 +1,10 @@
 {
   "date": "20261018",
   "slot": "noon",
-  "generated_at": "2026-10-18T21:17:34+08:00",
-  "matches": 11,
+  "generated_at": "2026-10-18T21:19:25+08:00",
+  "matches": 21,
   "model_version": "dc-2026.10",
   "source_repo": "1737665887kiss-hub/diyide",
-  "notes": "伤停来源链接缺失",
+  "notes": "21 场完整版（含新浪+唯彩会双源伤停）；已从 git 历史还原",
   "reject_reason": null
 }
