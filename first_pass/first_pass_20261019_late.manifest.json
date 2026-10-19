@@ -2,30 +2,31 @@
   "date": "20261019",
   "slot": "late",
   "stage": "终版",
-  "generated_at": "2026-10-19T18:09:16+08:00",
+  "generated_at": "2026-10-20T00:13:14+08:00",
   "matches": 8,
   "model_version": "dc-2026.10",
   "source_repo": "1737665887kiss-hub/diyide",
   "injury_coverage": {
     "stage": "终版",
     "matches": 8,
-    "covered_matches": 0,
-    "no_info_matches": 8,
+    "covered_matches": 2,
+    "no_info_matches": 6,
     "no_info_ids": [
-      "001",
       "002",
       "003",
       "004",
-      "005",
       "006",
       "007",
       "008"
     ],
-    "sources": [],
-    "source_count": 0,
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/cagliari-vs-monza/183-2667",
+      "https://www.footballant.com/zh-CN/match/tottenham-hotspur-vs-coventry-city/33-57"
+    ],
+    "source_count": 2,
     "evidence_level": 4,
-    "status": "无伤资源（汇总未发布）"
+    "status": "双源确认无公开伤停"
   },
-  "notes": "终版：伤停覆盖 0/8 场；8 场标注「无」（编号 001,002,003,004,005,006,007,008），终版仍无伤停源（汇总未发布），属数据缺口，请人工确认；伤停来源链接缺失",
+  "notes": "终版：伤停覆盖 2/8 场；6 场标注「无」（编号 002,003,004,006,007,008），已双源检索确认无公开伤停",
   "reject_reason": null
 }
