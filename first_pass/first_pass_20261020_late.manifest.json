@@ -1,0 +1,32 @@
+{
+  "date": "20261020",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-10-20T18:11:09+08:00",
+  "matches": 8,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 8,
+    "covered_matches": 2,
+    "no_info_matches": 6,
+    "no_info_ids": [
+      "003",
+      "004",
+      "006",
+      "007",
+      "009",
+      "010"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/fenerbahce-vs-slavia-praha/537-651",
+      "https://www.footballant.com/zh-CN/match/borussia-dortmund-vs-sabah-fk-baku/99-35445"
+    ],
+    "source_count": 2,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "终版：伤停覆盖 2/8 场；6 场标注「无」（编号 003,004,006,007,009,010）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
