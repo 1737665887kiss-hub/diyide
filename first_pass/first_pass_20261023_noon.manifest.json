@@ -1,0 +1,36 @@
+{
+  "date": "20261023",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-23T08:55:35+08:00",
+  "matches": 12,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 12,
+    "covered_matches": 5,
+    "no_info_matches": 7,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "010",
+      "012"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/borussia-monchengladbach-vs-vfb-stuttgart/128-155",
+      "https://www.footballant.com/zh-CN/match/torino-vs-monza/558-2667",
+      "https://www.footballant.com/zh-CN/match/nice-vs-stade-brestois/259-306",
+      "https://www.footballant.com/zh-CN/match/nottingham-forest-vs-ipswich-town/49-68",
+      "https://www.footballant.com/zh-CN/match/malaga-vs-alaves/102-137"
+    ],
+    "source_count": 5,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "首发版：伤停覆盖 5/12 场；7 场标注「无」（编号 001,002,003,004,005,010,012）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
