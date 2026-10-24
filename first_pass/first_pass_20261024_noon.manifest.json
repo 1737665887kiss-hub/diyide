@@ -1,0 +1,40 @@
+{
+  "date": "20261024",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-24T12:04:40+08:00",
+  "matches": 29,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 29,
+    "covered_matches": 20,
+    "no_info_matches": 9,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "020",
+      "021",
+      "029",
+      "030"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/aston-villa-vs-manchester-city/20-26",
+      "https://www.footballant.com/zh-CN/match/elche-vs-rayo-vallecano/126-994",
+      "https://www.footballant.com/zh-CN/match/como-vs-sassuolo/1397-2960",
+      "https://www.footballant.com/zh-CN/match/cagliari-vs-bologna/183-185",
+      "https://www.footballant.com/zh-CN/match/fulham-vs-coventry-city/29-57",
+      "https://www.footballant.com/zh-CN/match/valencia-vs-villarreal/91-107",
+      "https://www.footballant.com/zh-CN/match/lens-vs-paris-fc/202-1796"
+    ],
+    "source_count": 7,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "首发版：伤停覆盖 20/29 场；9 场标注「无」（编号 001,002,003,004,005,020,021,029,030）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
