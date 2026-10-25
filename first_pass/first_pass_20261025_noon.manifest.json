@@ -2,15 +2,15 @@
   "date": "20261025",
   "slot": "noon",
   "stage": "首发版",
-  "generated_at": "2026-10-25T09:39:34+08:00",
+  "generated_at": "2026-10-25T10:15:15+08:00",
   "matches": 28,
   "model_version": "dc-2026.10",
   "source_repo": "1737665887kiss-hub/diyide",
   "injury_coverage": {
     "stage": "首发版",
     "matches": 28,
-    "covered_matches": 15,
-    "no_info_matches": 13,
+    "covered_matches": 6,
+    "no_info_matches": 22,
     "no_info_ids": [
       "001",
       "002",
@@ -23,8 +23,17 @@
       "010",
       "011",
       "012",
+      "016",
+      "018",
+      "019",
       "020",
-      "025"
+      "021",
+      "023",
+      "024",
+      "025",
+      "026",
+      "027",
+      "029"
     ],
     "sources": [
       "https://www.footballant.com/zh-CN/match/inter-milan-vs-fiorentina/152-176",
@@ -32,13 +41,12 @@
       "https://www.footballant.com/zh-CN/match/manchester-united-vs-afc-bournemouth/27-348",
       "https://www.footballant.com/zh-CN/match/genoa-vs-venezia/552-557",
       "https://www.footballant.com/zh-CN/match/monaco-vs-lille/197-266",
-      "https://www.footballant.com/zh-CN/match/bayern-munchen-vs-sc-freiburg/88-172",
-      "https://www.footballant.com/zh-CN/match/los-angeles-galaxy-vs-los-angeles-fc/311-36878"
+      "https://www.footballant.com/zh-CN/match/bayern-munchen-vs-sc-freiburg/88-172"
     ],
-    "source_count": 7,
+    "source_count": 6,
     "evidence_level": 4,
     "status": "双源确认无公开伤停"
   },
-  "notes": "首发版：伤停覆盖 15/28 场；13 场标注「无」（编号 001,002,003,004,005,007,008,009,010,011,012,020…）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "notes": "首发版：伤停覆盖 6/28 场；22 场标注「无」（编号 001,002,003,004,005,007,008,009,010,011,012,016…）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
   "reject_reason": null
 }
