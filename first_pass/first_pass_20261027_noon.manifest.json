@@ -1,0 +1,25 @@
+{
+  "date": "20261027",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-27T12:03:06+08:00",
+  "matches": 10,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 10,
+    "covered_matches": 10,
+    "no_info_matches": 0,
+    "no_info_ids": [],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/lazio-vs-sassuolo/182-2960",
+      "https://www.footballant.com/zh-CN/match/torino-vs-como/558-1397"
+    ],
+    "source_count": 2,
+    "evidence_level": 4,
+    "status": "完整"
+  },
+  "notes": "首发版：伤停覆盖 10/10 场，全部有伤停信息",
+  "reject_reason": null
+}
