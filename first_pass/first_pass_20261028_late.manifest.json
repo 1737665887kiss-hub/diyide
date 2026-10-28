@@ -1,0 +1,39 @@
+{
+  "date": "20261028",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-10-28T18:09:00+08:00",
+  "matches": 14,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 14,
+    "covered_matches": 0,
+    "no_info_matches": 14,
+    "no_info_ids": [
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "012",
+      "013",
+      "014",
+      "015",
+      "016",
+      "017"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/ac-milan-vs-bologna/150-185"
+    ],
+    "source_count": 1,
+    "evidence_level": 4,
+    "status": "单源，另一源未发布"
+  },
+  "notes": "终版：伤停覆盖 0/14 场；14 场标注「无」（编号 004,005,006,007,008,009,010,011,012,013,014,015…），终版仍只有单源，另一源未发布，请人工复核",
+  "reject_reason": null
+}
