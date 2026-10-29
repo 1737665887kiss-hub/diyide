@@ -1,0 +1,36 @@
+{
+  "date": "20261030",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-30T04:16:26+08:00",
+  "matches": 12,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 12,
+    "covered_matches": 2,
+    "no_info_matches": 10,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "011",
+      "012"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/rcd-espanyol-vs-villarreal/100-107",
+      "https://www.footballant.com/zh-CN/match/lens-vs-lille/202-266"
+    ],
+    "source_count": 2,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "首发版：伤停覆盖 2/12 场；10 场标注「无」（编号 001,002,003,004,005,006,007,008,011,012）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
