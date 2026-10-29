@@ -1,0 +1,30 @@
+{
+  "date": "20261029",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-29T12:05:11+08:00",
+  "matches": 7,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 7,
+    "covered_matches": 0,
+    "no_info_matches": 7,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007"
+    ],
+    "sources": [],
+    "source_count": 0,
+    "evidence_level": 4,
+    "status": "无伤资源（汇总未发布）"
+  },
+  "notes": "首发版：伤停覆盖 0/7 场；7 场标注「无」（编号 001,002,003,004,005,006,007），伤停汇总尚未发布，属首发版预期内缺口；伤停来源链接缺失",
+  "reject_reason": null
+}
