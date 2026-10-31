@@ -1,0 +1,35 @@
+{
+  "date": "20261031",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-10-31T12:04:07+08:00",
+  "matches": 27,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 27,
+    "covered_matches": 20,
+    "no_info_matches": 7,
+    "no_info_ids": [
+      "001",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "019"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/levante-vs-atletico-madrid/103-109",
+      "https://www.footballant.com/zh-CN/match/bologna-vs-monza/185-2667",
+      "https://www.footballant.com/zh-CN/match/leeds-united-vs-afc-bournemouth/56-348",
+      "https://www.footballant.com/zh-CN/match/aston-villa-vs-fulham/20-29"
+    ],
+    "source_count": 4,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "首发版：伤停覆盖 20/27 场；7 场标注「无」（编号 001,003,004,005,006,007,019）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
