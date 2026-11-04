@@ -1,0 +1,26 @@
+{
+  "date": "20261104",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-11-04T12:03:45+08:00",
+  "matches": 12,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 12,
+    "covered_matches": 11,
+    "no_info_matches": 1,
+    "no_info_ids": [
+      "009"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/gamba-osaka-vs-pohang-steelers/207-481"
+    ],
+    "source_count": 1,
+    "evidence_level": 4,
+    "status": "单源，另一源未发布"
+  },
+  "notes": "首发版：伤停覆盖 11/12 场；1 场标注「无」（编号 009），仅单源（另一源未发布），终版会复核",
+  "reject_reason": null
+}
