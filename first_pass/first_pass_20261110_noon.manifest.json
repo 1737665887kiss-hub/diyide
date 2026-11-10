@@ -1,0 +1,26 @@
+{
+  "date": "20261110",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-11-10T12:03:24+08:00",
+  "matches": 2,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 2,
+    "covered_matches": 1,
+    "no_info_matches": 1,
+    "no_info_ids": [
+      "001"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/milton-keynes-dons-vs-bromley/334-3280"
+    ],
+    "source_count": 1,
+    "evidence_level": 4,
+    "status": "单源，另一源未发布"
+  },
+  "notes": "首发版：伤停覆盖 1/2 场；1 场标注「无」（编号 001），仅单源（另一源未发布），终版会复核",
+  "reject_reason": null
+}
