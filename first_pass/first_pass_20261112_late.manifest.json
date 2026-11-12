@@ -1,0 +1,29 @@
+{
+  "date": "20261112",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-11-12T18:09:26+08:00",
+  "matches": 5,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 5,
+    "covered_matches": 3,
+    "no_info_matches": 2,
+    "no_info_ids": [
+      "003",
+      "005"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/belgium-vs-turkey/645-762",
+      "https://www.footballant.com/zh-CN/match/armenia-vs-cyprus/748-753",
+      "https://www.footballant.com/zh-CN/match/latvia-vs-montenegro/631-5282"
+    ],
+    "source_count": 3,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "终版：伤停覆盖 3/5 场；2 场标注「无」（编号 003,005）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
