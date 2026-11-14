@@ -1,0 +1,40 @@
+{
+  "date": "20261114",
+  "slot": "noon",
+  "stage": "首发版",
+  "generated_at": "2026-11-14T12:05:30+08:00",
+  "matches": 16,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "首发版",
+    "matches": 16,
+    "covered_matches": 2,
+    "no_info_matches": 14,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "008",
+      "009",
+      "010",
+      "011",
+      "012",
+      "013",
+      "015",
+      "016"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/norway-vs-wales/640-7384",
+      "https://www.footballant.com/zh-CN/match/denmark-vs-portugal/638-765"
+    ],
+    "source_count": 2,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "首发版：伤停覆盖 2/16 场；14 场标注「无」（编号 001,002,003,004,005,006,008,009,010,011,012,013…）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
