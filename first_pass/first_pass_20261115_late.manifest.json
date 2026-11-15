@@ -1,0 +1,24 @@
+{
+  "date": "20261115",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-11-15T18:08:20+08:00",
+  "matches": 6,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 6,
+    "covered_matches": 5,
+    "no_info_matches": 1,
+    "no_info_ids": [
+      "006"
+    ],
+    "sources": [],
+    "source_count": 0,
+    "evidence_level": 4,
+    "status": "无伤资源（汇总未发布）"
+  },
+  "notes": "终版：伤停覆盖 5/6 场；1 场标注「无」（编号 006），终版仍无伤停源（汇总未发布），属数据缺口，请人工确认；伤停来源链接缺失",
+  "reject_reason": null
+}
