@@ -1,0 +1,32 @@
+{
+  "date": "20261116",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-11-16T18:08:58+08:00",
+  "matches": 8,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 8,
+    "covered_matches": 1,
+    "no_info_matches": 7,
+    "no_info_ids": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/serbia-vs-greece/642-757"
+    ],
+    "source_count": 1,
+    "evidence_level": 4,
+    "status": "单源，另一源未发布"
+  },
+  "notes": "终版：伤停覆盖 1/8 场；7 场标注「无」（编号 001,002,003,004,005,006,007），终版仍只有单源，另一源未发布，请人工复核",
+  "reject_reason": null
+}
