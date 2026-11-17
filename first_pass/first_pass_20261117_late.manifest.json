@@ -1,0 +1,33 @@
+{
+  "date": "20261117",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-11-17T18:10:34+08:00",
+  "matches": 9,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 9,
+    "covered_matches": 6,
+    "no_info_matches": 3,
+    "no_info_ids": [
+      "002",
+      "003",
+      "010"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/romania-vs-bosnia-and-herzegovina/635-782",
+      "https://www.footballant.com/zh-CN/match/poland-vs-sweden/637-644",
+      "https://www.footballant.com/zh-CN/match/denmark-vs-norway/638-640",
+      "https://www.footballant.com/zh-CN/match/portugal-vs-wales/765-7384",
+      "https://www.footballant.com/zh-CN/match/hungary-vs-northern-ireland/745-759",
+      "https://www.footballant.com/zh-CN/match/ireland-vs-kosovo/630-5764"
+    ],
+    "source_count": 6,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "终版：伤停覆盖 6/9 场；3 场标注「无」（编号 002,003,010）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
