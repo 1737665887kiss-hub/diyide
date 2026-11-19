@@ -1,0 +1,28 @@
+{
+  "date": "20261119",
+  "slot": "late",
+  "stage": "终版",
+  "generated_at": "2026-11-19T18:09:48+08:00",
+  "matches": 4,
+  "model_version": "dc-2026.10",
+  "source_repo": "1737665887kiss-hub/diyide",
+  "injury_coverage": {
+    "stage": "终版",
+    "matches": 4,
+    "covered_matches": 2,
+    "no_info_matches": 2,
+    "no_info_ids": [
+      "003",
+      "004"
+    ],
+    "sources": [
+      "https://www.footballant.com/zh-CN/match/vitoria-ba-vs-bragantino/462-3820",
+      "https://www.footballant.com/zh-CN/match/sao-paulo-vs-fluminense-rj/453-469"
+    ],
+    "source_count": 2,
+    "evidence_level": 4,
+    "status": "双源确认无公开伤停"
+  },
+  "notes": "终版：伤停覆盖 2/4 场；2 场标注「无」（编号 003,004）；已检索多个来源，但未覆盖的场次不作为「无伤停」认定，属数据缺口",
+  "reject_reason": null
+}
